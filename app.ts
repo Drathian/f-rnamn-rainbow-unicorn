@@ -4,7 +4,6 @@ let animalArray: string [] = ["apa", "orangutang", "gorilla", "get", "giraff"];
 
 for (let i = 0; i < animalArray.length; i++) {
     console.log(animalArray[i]);
-    
 }
 
 interface Person {
